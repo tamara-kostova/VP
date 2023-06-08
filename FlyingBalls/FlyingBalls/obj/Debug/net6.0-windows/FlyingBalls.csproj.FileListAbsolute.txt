@@ -1,0 +1,17 @@
+C:\Users\Tamara\source\repos\Vizuelno Programiranje\FlyingBalls\FlyingBalls\bin\Debug\net6.0-windows\FlyingBalls.exe
+C:\Users\Tamara\source\repos\Vizuelno Programiranje\FlyingBalls\FlyingBalls\bin\Debug\net6.0-windows\FlyingBalls.deps.json
+C:\Users\Tamara\source\repos\Vizuelno Programiranje\FlyingBalls\FlyingBalls\bin\Debug\net6.0-windows\FlyingBalls.runtimeconfig.json
+C:\Users\Tamara\source\repos\Vizuelno Programiranje\FlyingBalls\FlyingBalls\bin\Debug\net6.0-windows\FlyingBalls.dll
+C:\Users\Tamara\source\repos\Vizuelno Programiranje\FlyingBalls\FlyingBalls\bin\Debug\net6.0-windows\FlyingBalls.pdb
+C:\Users\Tamara\source\repos\Vizuelno Programiranje\FlyingBalls\FlyingBalls\obj\Debug\net6.0-windows\FlyingBalls.csproj.AssemblyReference.cache
+C:\Users\Tamara\source\repos\Vizuelno Programiranje\FlyingBalls\FlyingBalls\obj\Debug\net6.0-windows\FlyingBalls.Form1.resources
+C:\Users\Tamara\source\repos\Vizuelno Programiranje\FlyingBalls\FlyingBalls\obj\Debug\net6.0-windows\FlyingBalls.csproj.GenerateResource.cache
+C:\Users\Tamara\source\repos\Vizuelno Programiranje\FlyingBalls\FlyingBalls\obj\Debug\net6.0-windows\FlyingBalls.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tamara\source\repos\Vizuelno Programiranje\FlyingBalls\FlyingBalls\obj\Debug\net6.0-windows\FlyingBalls.AssemblyInfoInputs.cache
+C:\Users\Tamara\source\repos\Vizuelno Programiranje\FlyingBalls\FlyingBalls\obj\Debug\net6.0-windows\FlyingBalls.AssemblyInfo.cs
+C:\Users\Tamara\source\repos\Vizuelno Programiranje\FlyingBalls\FlyingBalls\obj\Debug\net6.0-windows\FlyingBalls.csproj.CoreCompileInputs.cache
+C:\Users\Tamara\source\repos\Vizuelno Programiranje\FlyingBalls\FlyingBalls\obj\Debug\net6.0-windows\FlyingBalls.dll
+C:\Users\Tamara\source\repos\Vizuelno Programiranje\FlyingBalls\FlyingBalls\obj\Debug\net6.0-windows\refint\FlyingBalls.dll
+C:\Users\Tamara\source\repos\Vizuelno Programiranje\FlyingBalls\FlyingBalls\obj\Debug\net6.0-windows\FlyingBalls.pdb
+C:\Users\Tamara\source\repos\Vizuelno Programiranje\FlyingBalls\FlyingBalls\obj\Debug\net6.0-windows\FlyingBalls.genruntimeconfig.cache
+C:\Users\Tamara\source\repos\Vizuelno Programiranje\FlyingBalls\FlyingBalls\obj\Debug\net6.0-windows\ref\FlyingBalls.dll
